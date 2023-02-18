@@ -1,0 +1,19 @@
+{
+"name":"jobin",
+"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+
+"website":"jjgjkfkgjk.com",
+"phone":"8598654876859",
+"email":"joys@gmail.com",
+"address":"2- 200  a kootangal vilai Fathima Nager p.o",
+
+  "careers":["web dev", "ui"
+  ],
+  "averageRating":"5",
+  "averageCost": 5000,
+  "photo":"default:'no-poto.jpg",
+  "housing":false,
+  "jobAssistance":true,
+  "acceptGi":true
+
+}

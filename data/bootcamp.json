@@ -1,0 +1,19 @@
+[
+{
+    "name": "development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ",
+    "website": "development@gmail.com",
+    "phone": "85027847823",
+    "email": "development@gmail.com",
+    "address": "kaliyakavilai ",
+    "careers": [
+        "web dev",
+        "ui"
+    ],
+    "averageRating": 10,
+    "averageCost": 5021,
+    "photo": "default:'no-poto.jpg",
+    "housing": false,
+    "jobAssistance": true,
+    "acceptGi": true
+}]
